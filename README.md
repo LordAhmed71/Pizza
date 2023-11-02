@@ -24,9 +24,10 @@ Users receive real-time updates on the status of their orders, from preparation 
  - PostCSS and Autoprefixer: Enhances CSS capabilities and ensures cross-browser compatibility.
 
 ## Installation
-Clone the project repository.
-Install the project dependencies using npm install or yarn install.
-Start the development server with npm run dev or yarn dev.
+### To run the project locally, you can follow these steps:
+- Clone the project repository.
+- Install the project dependencies using npm install or yarn install.
+- Start the development server with npm run dev or yarn dev.
 
 ## Usage
 Access the website in your web browser to start browsing and ordering pizzas.
