@@ -15,13 +15,13 @@ The website includes a cart system that keeps track of selected pizzas and their
 Users receive real-time updates on the status of their orders, from preparation to delivery. This feature keeps customers informed and engaged throughout the process.
 
 ## Technologies Used
-React : The core frontend library that powers the user interface.
-React Router: Enables smooth and dynamic routing within the application.
-Redux Toolkit: Manages state and provides a centralized store for application data.
-Tailwind CSS: A utility-first CSS framework for building responsive and stylish user interfaces.
-Vite: A build tool that helps bundle and optimize the application for performance.
-ESLint and Prettier: Ensures code quality and consistency.
-PostCSS and Autoprefixer: Enhances CSS capabilities and ensures cross-browser compatibility.
+.React: The core frontend library that powers the user interface.
+.React Router: Enables smooth and dynamic routing within the application.
+.Redux Toolkit: Manages state and provides a centralized store for application data.
+.Tailwind CSS: A utility-first CSS framework for building responsive and stylish user interfaces.
+.Vite: A build tool that helps bundle and optimize the application for performance.
+.ESLint and Prettier: Ensures code quality and consistency.
+.PostCSS and Autoprefixer: Enhances CSS capabilities and ensures cross-browser compatibility.
 
 ## Installation
 Clone the project repository.
