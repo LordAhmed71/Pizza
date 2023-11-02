@@ -1,9 +1,9 @@
 # FAST REACT PIZZA CO.
 
-## Overview
-The  FAST REACT PIZZA CO. is a modern and user-friendly web application that allows users to browse and order delicious pizzas online. It's built using React and various frontend technologies to provide a seamless and enjoyable experience for pizza lovers.
+## Overview:
+The FAST REACT PIZZA CO. is a modern and user-friendly web application that allows users to browse and order delicious pizzas online. It's built using React and various frontend technologies to provide a seamless and enjoyable experience for pizza lovers.
 
-## Features
+## Features:
 
 ### 1. Pizza Selection
 Users can browse a wide range of pizza options, view detailed descriptions, and select their favorite pizzas. The website showcases an extensive menu, including classic favorites and unique creations.
@@ -14,14 +14,14 @@ The website includes a cart system that keeps track of selected pizzas and their
 ### 3. Real-time Updates
 Users receive real-time updates on the status of their orders, from preparation to delivery. This feature keeps customers informed and engaged throughout the process.
 
-## Technologies Used
-.React: The core frontend library that powers the user interface.
-.React Router: Enables smooth and dynamic routing within the application.
-.Redux Toolkit: Manages state and provides a centralized store for application data.
-.Tailwind CSS: A utility-first CSS framework for building responsive and stylish user interfaces.
-.Vite: A build tool that helps bundle and optimize the application for performance.
-.ESLint and Prettier: Ensures code quality and consistency.
-.PostCSS and Autoprefixer: Enhances CSS capabilities and ensures cross-browser compatibility.
+## Technologies Used:
+ .React: The core frontend library that powers the user interface.
+ .React Router: Enables smooth and dynamic routing within the application.
+ .Redux Toolkit: Manages state and provides a centralized store for application data.
+ .Tailwind CSS: A utility-first CSS framework for building responsive and stylish user interfaces.
+ .Vite: A build tool that helps bundle and optimize the application for performance.
+ .ESLint and Prettier: Ensures code quality and consistency.
+ .PostCSS and Autoprefixer: Enhances CSS capabilities and ensures cross-browser compatibility.
 
 ## Installation
 Clone the project repository.
